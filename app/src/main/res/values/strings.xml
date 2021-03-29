@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Beteise Weather</string>
+    <string name="updated_at">updated at</string>
+    <string name="pressure">Pressure</string>
+    <string name="created_by">Created by</string>
+    <string name="b_richmond">B Richmond</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
